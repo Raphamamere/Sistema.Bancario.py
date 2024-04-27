@@ -1,7 +1,7 @@
 menu = '''
 
 Olá, seja bem vindo!
-Digite uma das opções a segui:
+Digite uma das opções a seguir:
 
 [1] Depositar
 [2] Sacar
