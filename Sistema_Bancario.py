@@ -1,5 +1,8 @@
 menu = '''
 
+Olá, seja bem vindo!
+Digite uma das opções a segui:
+
 [1] Depositar
 [2] Sacar
 [3] Extrato
